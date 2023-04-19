@@ -1,0 +1,10 @@
+List of Tasks:
+
+Task 1. Download this Tar File.
+Task 2. Decompress and extract the File.
+Task 3. Make the files executable.
+Task 4. Set the alias for mkdir command.
+Task 5. Use the alias to change the location of file TWP.txt to linux/firstvideo/ directory(create directories inside the main directory)
+Task 6. Now Create a VM Machine on any cloud.
+Task 7. Create the SSH Keys.
+Task 8. Send the Directory to the VM using the scp command.
